@@ -1,0 +1,7 @@
+
+void
+driverInit(void)
+{
+
+}
+
